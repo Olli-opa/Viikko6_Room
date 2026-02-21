@@ -48,4 +48,3 @@ Välimuistin logiikka on toteutettu kokonaisuudessaan `WeatherRepository`-luokas
 5.  Onnistuneen vastauksen jälkeen uusi säädata paketoidaan `WeatherCacheEntity`-olioon ja tallennetaan Room-tietokantaan. Tämä korvaa vanhan välimuistidatan kyseiselle kaupungille.
 6.  Lopuksi tuore API:sta haettu data palautetaan ViewModelille.
 
-## Demovideo

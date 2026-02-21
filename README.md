@@ -49,5 +49,3 @@ Välimuistin logiikka on toteutettu kokonaisuudessaan `WeatherRepository`-luokas
 6.  Lopuksi tuore API:sta haettu data palautetaan ViewModelille.
 
 ## Demovideo
-
-[Linkki demovideoon](URL_TÄHÄN)
